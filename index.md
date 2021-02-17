@@ -6,6 +6,7 @@
 ## The main cascade of programs:
 
 [Bitmask](https://github.com/DroidSU-GI/FreeInet/blob/master/Bitmask%201.0.5.apk?raw=true)
+[HakerWTF](https://github.com/DroidSU-GI/FreeInet/raw/master/HakerWTF%20VPN%20v1.7.apk)
 
 ### Markdown
 
