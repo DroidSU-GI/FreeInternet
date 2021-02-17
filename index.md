@@ -1,8 +1,7 @@
 ## FreeInternet available to everyone!
-
-You can use the [editor on GitHub](https://github.com/DroidSU-GI/FreeInternet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ENG: This site is dedicated to getting free internet traffic from a mobile operator.
+RUS: Этот сайт посвещён получению бесплатного интернет трафика у мобильного оператора.
+RON: Acest site este dedicat obținerii traficului de internet gratuit de la un operator de telefonie mobilă.
 
 ### Markdown
 
