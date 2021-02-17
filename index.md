@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FreeInternet available to everyone!
 
 You can use the [editor on GitHub](https://github.com/DroidSU-GI/FreeInternet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
