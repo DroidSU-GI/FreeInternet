@@ -7,7 +7,7 @@
 
 [Bitmask](https://github.com/DroidSU-GI/FreeInet/blob/master/Bitmask%201.0.5.apk?raw=true)
 [HakerWTF](https://github.com/DroidSU-GI/FreeInet/raw/master/HakerWTF%20VPN%20v1.7.apk)
-
+[PsiphonPro_v284](https://github.com/DroidSU-GI/FreeInet/raw/master/Psiphon%20Pro_v284(284).apk)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
